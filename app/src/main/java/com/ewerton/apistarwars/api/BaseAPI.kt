@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 
 class BaseAPI {
-    val URLAPI = "https://swapi.co/api/"
+    val URLAPI = "https://swapi.dev/api/"
 
     val retrofit = Retrofit.Builder()
         .baseUrl(URLAPI)
