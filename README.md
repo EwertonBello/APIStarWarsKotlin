@@ -2,7 +2,7 @@
 Consumindo e listando filmes da API do Star Wars em Android Kotlin com Retrofit2 e RecyclerView<br/>
 
 
-<Strong>API Star Wars: </Strong>(https://swapi.co)<br/>
+<Strong>API Star Wars: </Strong>(https://swapi.dev)<br/>
 <Strong>Retrofit2: </Strong>(https://square.github.io/retrofit)<br/>
 <hr>
 <div>
